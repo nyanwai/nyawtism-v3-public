@@ -48,6 +48,7 @@
   - `/sell-item` - Sell items from your inventory for in-game credits.
   - `/slot` - Play the slot machine gambling game and try your luck to win credits.
   - `/crashout` - Engage in the crashout gambling game and wager your credits for the chance to win big.
+  - `/redeem` - Redeem a premium item once.
 
   ---
 
