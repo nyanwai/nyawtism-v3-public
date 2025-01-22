@@ -54,7 +54,7 @@
 
   ### 💡 **Play & Test Nyawtism Bot**
 
-  The bot is available for free! If you're interested in trying it out or testing its features, [here's the link for the server](https://discord.gg/7J6G4cWQne).
+  The bot is available for free! If you're interested in trying it out or testing its features, [here's the link for the server](https://discord.gg/BTvb8TPSKw).
 
   ---
 
@@ -62,7 +62,7 @@
 
   If you want to help with testing or submit bug reports, join the official testing server! Use the feedback channel to share your thoughts and issues.  
 
-  [Join the Testing Server](https://discord.gg/7J6G4cWQne)
+  [Join the Testing Server](https://discord.gg/BTvb8TPSKw)
 
   - Report bugs or issues.
   - Suggest new features or mechanics.
